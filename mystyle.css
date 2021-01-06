@@ -1,0 +1,131 @@
+* {
+  margin: 2px;
+  padding: 2px;
+}
+
+img {
+  float: left;
+}
+
+.Bekenddoor  {
+    border: 4px maroon double;
+    border-radius: 20px 0px 20px 0px;
+    text-align: justify;
+    padding: 5px;
+    border: 5px solid orange;
+    margin-right: 10px;
+}
+
+.Index {
+  image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.rtlnieuws.nl%2Ftech%2Fartikel%2F5081421%2Fbill-gates-bouwt-voor-de-zekerheid-zeven-fabrieken-voor-coronavaccin&psig=AOvVaw1AX3IMMiq9Ly91eTX3_Fp1&ust=1607609798483000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIiS16qLwe0CFQAAAAAdAAAAABAD);
+  background-position: top;
+  background-image: url("https://www.rtlnieuws.nl/sites/default/files/styles/liggend_hoge_resolutie/public/content/images/2020/04/05/GettyImages-1185999181.jpg?h=a9edb586&itok=wEwKoN6")
+
+}
+
+.Filmpje	{
+  float: left;
+}
+ul.NavigatieMenu {
+  color:black ;
+  display: inline;
+  background-color: #333;
+}
+
+ul.NavigatieMenu li{
+  color: black;
+  padding: 2px;
+  display: inline;
+}
+
+ul.NavigatieMenu li a {
+  color: white;
+  text-decoration: none;
+
+}
+
+ul.NavigatieMenu li a:hover {
+  background-color: #111;
+}
+
+.Tabel td, tr, th {
+  border: 1px solid black;
+
+}
+
+body.Contact {
+  background-image: url("https://www.atelierpro.nl/uploads/project/header/f36df0c0bba8f691e53b61c7630bb175fcbac9c8.jpg");
+
+}
+
+img.Microsoft {
+  float: center;
+}
+
+p.Home {
+  border: 2px maroon double;
+  border-radius: 20px 0px 20px 0px;
+  text-align: justify;
+  padding: 5px;
+  border: 5px solid purple;
+  margin-right: 10px;
+  font-weight: bold;
+  background-color: red;
+}
+p.Biografie {
+  border: 4px maroon double;
+  border-radius: 20px 0px 20px 0px;
+  text-align: justify;
+  padding: 5px;
+  border: 5px solid red;
+  margin-right: 10px;
+  background-color: green;
+}
+
+img{
+float: left;
+}
+iframe{
+float: right;
+}
+
+img{
+  float: left;
+}
+
+
+a:hover{
+  background-color: yellow;
+  font-size: large;
+}
+
+.Contact_tekst {
+      border: 4px solid blue;
+      background-color: red;
+}
+
+ h2 {
+  border: 4px solid blue;
+  color: #e02245;
+  background-color: purple;
+  text-align : center;
+  font-family: Georgia, "Times New Roman" , Times, serif;
+  font-style: italic;
+}
+
+
+img.Biografie_BillGates{
+  float:left:
+}
+
+body.Biografie_body {
+  background-image: url("https://images.nrc.nl/7kV7jzhxn0JQLLYonk7n4VkRa3Q=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2020/03/web-1303buigates1.jpg");
+}
+
+
+
+
+body {
+  margin: 0 0% 0 0%; /* links en rechts 10% marge, boven en onder geen marge  */
+  background-image: url("GettyImages-1185999181.jpg");
+}
